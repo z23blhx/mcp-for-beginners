@@ -1,30 +1,11 @@
-# 🚀 MCP Tooling
+# 12 - MCP 工具生态
 
-## 🧠 Overview of the MCP Database Integration Learning Path
+> 🇨🇳 本页是简体中文学习入口。
 
-Here you will learn how to use tools that uses MCP. Your experience using these tools will improve as you connect MCP servers to them.
+👉 **[打开完整中文章节：MCP 工具生态](../translations/zh-CN/12-tooling/README.md)**
 
-## 🔗 Official MCP Resources
+## 本章学习内容
 
-- 📘 [MCP Documentation](https://modelcontextprotocol.io/) – Detailed tutorials and user guides
-- 📜 [MCP Specification (2025-11-25)](https://spec.modelcontextprotocol.io/specification/2025-11-25/) – Protocol architecture and technical references
-- 🧑‍💻 [MCP GitHub Repository](https://github.com/modelcontextprotocol) – Open-source SDKs, tools, and code samples
-- 🌐 [MCP Community](https://github.com/orgs/modelcontextprotocol/discussions) – Join discussions and contribute to the community
-- 🔒 [OWASP MCP Top 10](https://microsoft.github.io/mcp-azure-security-guide/mcp/) – Security best practices and risk mitigations
+本章介绍 MCP 相关工具、开发辅助能力和生态组件，帮助你在已经掌握基本协议与开发流程后提高调试和开发效率。
 
-
-
-## 🌟 Community and Support
-
-### Get Help
-
-- **Azure AI Discord**: [Join for expert support](https://discord.com/invite/ByRwuEEgH4)
-- **MCP Community**: [Join broader MCP discussions](https://github.com/orgs/modelcontextprotocol/discussions)
-
-## 🚀 Ready to Start?
-
-Begin your journey with **[GitHub Copilot app](./01-copilot-app/README.md)**
-
----
-
-*Master these using MCP with these tools for enhanced productivity and seamless integration.*
+[返回中文课程首页](../README.md) · [查看 Microsoft 英文原版](https://github.com/microsoft/mcp-for-beginners/blob/main/12-tooling/README.md)
